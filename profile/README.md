@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td width="120" align="center" valign="middle">
-<a href="https://github.com/counter-ltd/clonk"><img src="assets/clonk.png" width="96" alt="Clonk"></a>
+<a href="https://github.com/counter-ltd/clonk"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/clonk.png" width="96" alt="Clonk"></a>
 </td>
 <td valign="middle">
 
@@ -47,7 +47,7 @@ A mechanical keyboard sound simulator for your Mac. Sits in the menu bar and giv
 
 <tr>
 <td width="120" align="center" valign="middle">
-<a href="https://github.com/counter-ltd/copied"><img src="assets/copied.png" width="96" alt="Copied"></a>
+<a href="https://github.com/counter-ltd/copied"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/copied.png" width="96" alt="Copied"></a>
 </td>
 <td valign="middle">
 
@@ -64,7 +64,7 @@ A thin, fast, content-aware clipboard manager for macOS. It **understands what y
 
 <tr>
 <td width="120" align="center" valign="middle">
-<a href="https://github.com/counter-ltd/fileden"><img src="assets/fileden.png" width="96" alt="FileDen"></a>
+<a href="https://github.com/counter-ltd/fileden"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/fileden.png" width="96" alt="FileDen"></a>
 </td>
 <td valign="middle">
 
@@ -81,7 +81,7 @@ A floating shelf for the files you're working with right now. Drag in, drag out,
 
 <tr>
 <td width="120" align="center" valign="middle">
-<a href="https://github.com/counter-ltd/luminescent-clock"><img src="assets/luminescent-clock.png" width="96" alt="Luminescent Clock"></a>
+<a href="https://github.com/counter-ltd/luminescent-clock"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/luminescent-clock.png" width="96" alt="Luminescent Clock"></a>
 </td>
 <td valign="middle">
 

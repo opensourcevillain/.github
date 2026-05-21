@@ -24,4 +24,12 @@ cp -R  "$src/assets" "$dst/assets"
 # Rewrite only the H1 title line (leaves the footer's "Anti Limited" intact).
 perl -i -pe "s/^\Q${src_title}\E\$/${dst_title}/" "$dst/README.md"
 
-echo "Synced profile/ from $src"
+# Profile pages resolve relative image paths against the profile URL, not the
+# file, so relative assets/ images 404. Rewrite them to absolute raw URLs
+# pointing at this repo's committed profile/assets.
+slug="$(git -C "$here" config --get remote.origin.url | sed -E 's#(git@github.com:|https://github.com/)##; s#\.git$##')"
+branch="$(git -C "$here" rev-parse --abbrev-ref HEAD)"
+rawbase="https://raw.githubusercontent.com/${slug}/${branch}/profile/assets"
+perl -i -pe "s#src=\"assets/#src=\"${rawbase}/#g" "$dst/README.md"
+
+echo "Synced profile/ from $src (assets -> ${rawbase})"
