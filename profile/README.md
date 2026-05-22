@@ -40,7 +40,7 @@ A mechanical keyboard sound simulator for your Mac. Sits in the menu bar and giv
 
 `type · click · thock · synth`
 
-![macOS](https://img.shields.io/badge/macOS%2026%20Tahoe-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%206.3-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS%2026%20Tahoe-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%206.3-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-1.5%20MB-brightgreen?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-%3C0.1%25-brightgreen?style=flat-square)
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ A simple, private address book for the professional contacts that don't belong o
 
 `browse · search · edit · export`
 
-![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Status](https://img.shields.io/badge/alpha-yellow?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Status](https://img.shields.io/badge/alpha-yellow?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-5.1%20MB-yellowgreen?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-%3C0.1%25-brightgreen?style=flat-square)
 
 </td>
 </tr>
@@ -70,11 +70,28 @@ A simple, private address book for the professional contacts that don't belong o
 
 ### [Copied](https://github.com/counter-ltd/copied)
 
-A thin, fast, content-aware clipboard manager for macOS. It **understands what you copied** — URLs, colors, code, images — and silently skips anything sensitive. Sub-millisecond FTS5 search across 5,000+ items, ~7 MB.
+A thin, fast, content-aware clipboard manager for macOS. It **understands what you copied** — URLs, colors, code, images — and silently skips anything sensitive. Sub-millisecond FTS5 search across 5,000+ items.
 
 `copy · classify · preview · paste`
 
-![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Status](https://img.shields.io/badge/alpha-yellow?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Status](https://img.shields.io/badge/alpha-yellow?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-7.6%20MB-green?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-%3C0.1%25-brightgreen?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="120" align="center" valign="middle">
+<a href="https://github.com/counter-ltd/eyesuphere"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/eyesuphere.png" width="96" alt="EyesUpHere"></a>
+</td>
+<td valign="middle">
+
+### [EyesUpHere](https://github.com/counter-ltd/eyesuphere)
+
+A floating teleprompter that lives **directly under your camera notch** — read straight down the lens for steady, natural eye contact in every recording and call. Voice-activated scrolling, notch-aware placement, and **invisible to screen recordings.** Every pixel drawn in code.
+
+`look · read · speak · connect`
+
+![macOS](https://img.shields.io/badge/macOS%2026%20Tahoe-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%206.3-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-1.3%20MB-brightgreen?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-%3C0.1%25-brightgreen?style=flat-square)
 
 </td>
 </tr>
@@ -87,11 +104,11 @@ A thin, fast, content-aware clipboard manager for macOS. It **understands what y
 
 ### [FileDen](https://github.com/counter-ltd/fileden)
 
-A floating shelf for the files you're working with right now. Drag in, drag out, drop a folder and get a zip. Smart actions, PDF tools, and native image/video conversion — and now you can **drop in documents and chat with them, with cited answers, fully on-device.** A shelf you can summon anywhere, in ~1.7 MB.
+A floating shelf for the files you're working with right now. Drag in, drag out, drop a folder and get a zip. Smart actions, PDF tools, and native image/video conversion — and now you can **drop in documents and chat with them, with cited answers, fully on-device.**
 
 `drag · drop · stash · ask · share`
 
-![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-1.9%20MB-brightgreen?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-%3C0.1%25-brightgreen?style=flat-square)
 
 </td>
 </tr>
@@ -108,7 +125,7 @@ A beautiful, featherweight floating clock for your Mac. Twelve algorithmic watch
 
 `glance · glow · focus · chime`
 
-![macOS](https://img.shields.io/badge/macOS%2026%20Tahoe-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%206.3-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS%2026%20Tahoe-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%206.3-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Bundle](https://img.shields.io/badge/bundle-2.1%20MB-green?style=flat-square) ![CPU](https://img.shields.io/badge/idle%20CPU-~0.3%25-brightgreen?style=flat-square)
 
 </td>
 </tr>
