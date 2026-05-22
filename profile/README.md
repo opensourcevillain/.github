@@ -47,6 +47,23 @@ A mechanical keyboard sound simulator for your Mac. Sits in the menu bar and giv
 
 <tr>
 <td width="120" align="center" valign="middle">
+<a href="https://github.com/counter-ltd/contax"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/contax.png" width="96" alt="Contax"></a>
+</td>
+<td valign="middle">
+
+### [Contax](https://github.com/counter-ltd/contax)
+
+A simple, private address book for the professional contacts that don't belong on your phone. Import and export vCard, browse and search instantly, edit every field — all stored locally, **never touching iCloud or the macOS contacts database.**
+
+`browse · search · edit · export`
+
+![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift%205.10-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square) ![Status](https://img.shields.io/badge/alpha-yellow?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="120" align="center" valign="middle">
 <a href="https://github.com/counter-ltd/copied"><img src="https://raw.githubusercontent.com/opensourcevillain/.github/main/profile/assets/copied.png" width="96" alt="Copied"></a>
 </td>
 <td valign="middle">
@@ -70,9 +87,9 @@ A thin, fast, content-aware clipboard manager for macOS. It **understands what y
 
 ### [FileDen](https://github.com/counter-ltd/fileden)
 
-A floating shelf for the files you're working with right now. Drag in, drag out, drop a folder and get a zip. Smart actions, PDF tools, and native image/video conversion — a shelf you can summon anywhere, in ~1.2 MB.
+A floating shelf for the files you're working with right now. Drag in, drag out, drop a folder and get a zip. Smart actions, PDF tools, and native image/video conversion — and now you can **drop in documents and chat with them, with cited answers, fully on-device.** A shelf you can summon anywhere, in ~1.7 MB.
 
-`drag · drop · stash · share`
+`drag · drop · stash · ask · share`
 
 ![macOS](https://img.shields.io/badge/macOS%2014+-black?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift) ![License](https://img.shields.io/badge/CLL%20v1.2-blue?style=flat-square)
 
